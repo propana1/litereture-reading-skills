@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献阅读"
+  short_description: "中文精读科研论文、逐图解释证据与局限，并按需整理到 Notion"
+  default_prompt: "请用 $literature-reading 精读这篇论文，解释关键术语、实验设计和各图结论，区分证据与推断。"
